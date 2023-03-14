@@ -114,14 +114,14 @@ I'm a skilled software developer with experience in TypeScript, JavaScript, Dart
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Isofttechn Stats](https://github-readme-stats.vercel.app/api?username=isofttechn&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Isofttechn Stats](https://github-readme-stats.vercel.app/api?username=blcdevs&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=isofttechn&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=blcdevs&count_private=true&theme=algolia&border_radius=20)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isofttechn&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blcdevs&show_icons=true&theme=algolia&border_radius=20)
     
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isofttechn&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blcdevs&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
