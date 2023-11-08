@@ -10,11 +10,11 @@ I'm a skilled software developer with experience in TypeScript, JavaScript, Dart
 <div align="center">
 
 <a href="https://isofttechn.info/" target="_blank">
-        Website
+        Isofttechn.info
     </a>
     &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
     <a href="https://github.com/isofttechn" target="_blank">
-        Second Github
+        Github.com/isofttechn
     </a>
     &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
     <a href="mailto:web3abraham@gmail.com" target="_blank">
