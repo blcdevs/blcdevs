@@ -18,7 +18,7 @@ I'm a skilled software developer with experience in TypeScript, JavaScript, Dart
     </a>
     &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
     <a href="mailto:web3abraham@gmail.com" target="_blank">
-       Email Me
+       Web3abraham@gmail.com
     </a>
 </div>
 </p>    
