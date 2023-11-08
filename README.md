@@ -9,7 +9,7 @@ I'm a skilled software developer with experience in TypeScript, JavaScript, Dart
 <br>
 <div align="center">
 
-<a href="https://isofttechn.app/" target="_blank">
+<a href="https://isofttechn.info/" target="_blank">
         Website
     </a>
     &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
